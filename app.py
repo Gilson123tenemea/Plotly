@@ -332,7 +332,7 @@ with tab4:
 # --------------------------------------------------------
 st.markdown("---")
 st.markdown(
-    "<p style='text-align: center; color: rgba(255,255,255,0.7);'>✨ Dashboard creado con Streamlit y Plotly | 2024</p>",
+    "<p style='text-align: center; color: rgba(255,255,255,0.7);'>✨ Dashboard creado por Gilson Tenemea | 2025</p>",
     unsafe_allow_html=True
 )
 st.success("✅ Visualización completada correctamente.")
